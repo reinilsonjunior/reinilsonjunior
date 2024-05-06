@@ -3,6 +3,8 @@
 
 - 🌱 Atualmente tenho buscando me desenvolver em **Python e Modelos de Machine Learning.**
 
+- - 👯Compartillho dicas de visualização de dados utilizando o Power BI no Linkedin [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGFlNTQxMzEtN2EwZS00ODNkLTg5NGYtNGVjM2ZhYTVjNTk4IiwidCI6ImQ1ZWQ3NWYzLTRkZGMtNGUyMC1iNWUzLWEyN2Y5ZjcwMDVjYiJ9)
+
 - 💬 Me pergunte sobre **SQL, Power BI, Python, Excel e Estatística.**
 
 - 📫 Você me encontra em **https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/**
