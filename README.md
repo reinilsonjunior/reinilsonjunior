@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente tenho buscando me desenvolver em **Python e Machine Learning**
 
-- 👯Compartillho dicas de visualização de dados utilizando o Power BI no Linkedin [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTk5NGQyNTgtMzRkYi00MGY1LTk1ZjItZTJkM2IyMWUyZGRhIiwidCI6ImQ1ZWQ3NWYzLTRkZGMtNGUyMC1iNWUzLWEyN2Y5ZjcwMDVjYiJ9)
+- 👯Compartillho dicas de visualização de dados utilizando o [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTk5NGQyNTgtMzRkYi00MGY1LTk1ZjItZTJkM2IyMWUyZGRhIiwidCI6ImQ1ZWQ3NWYzLTRkZGMtNGUyMC1iNWUzLWEyN2Y5ZjcwMDVjYiJ9)
 
 - 💬 Me pergunte sobre **SQL, Power BI, Python, Excel e Estatística**
 
