@@ -1,5 +1,5 @@
 <h1 align="center">Olá sem bem vindo 👋, Eu sou Reinilson Silva Jr</h1>
-<h3 align="center">Sou apaixonado por ciência e análise de dados,tenho interesse em áreas como Business Intelligence, ETL, Business Analytics, IOT e áreas correlatas</h3>
+<h3 align="center">Sou apaixonado por Ciência e Análise de Dados,tenho interesse em áreas como Business Intelligence, ETL, Business Analytics, áreas correlatas</h3>
 
 - 🌱 Atualmente tenho buscando me desenvolver em **Python e Machine Learning**
 
