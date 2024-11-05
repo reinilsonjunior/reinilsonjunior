@@ -1,7 +1,7 @@
-<h1 align="center">Olá sem bem vindo 👋, Eu sou Reinilson Silva Jr</h1>
+<h1 align="center">Olá sem bem vindo👋, Eu sou Reinilson Silva Jr</h1>
 <h3 align="center">Sou apaixonado por Ciência e Análise de Dados,tenho interesse em áreas como Business Intelligence, Business Analytics, áreas correlatas.</h3>
 
-- 
+- 📚 Pós Graduado em Estatística UFMG, Pós Graduando em Data Science e Analytics USP
 
 - 🌱 Atualmente tenho buscando me desenvolver em **Python e Machine Learning**
 
