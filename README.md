@@ -11,7 +11,7 @@
 
 - 📫 Você me encontra em **https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/**
 
-- 📄 analista de dados com mais de 10 anos de experiência na área de produtos, inteligência de mercado e pricing, onde aplico meus conhecimentos em estatística, Python, Power BI, SQL, e outras ferramentas para desenvolver soluções de precificação, inteligência de dados e analytics [https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/](https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/)
+- 📄 analista de dados com mais de 10 anos de experiência na área de produtos, inteligência de mercado e pricing, onde aplico meus conhecimentos em estatística, Python, Power BI, SQL, e outras ferramentas para desenvolver soluções de precificação, inteligência de dados e analytics [https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/](https://https://www.linkedin.com/in/reinilsonjunior/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
