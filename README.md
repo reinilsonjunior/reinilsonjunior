@@ -1,29 +1,77 @@
-<h1 align="center">Olá sem bem vindo👋, Eu sou Reinilson Silva Jr</h1>
-<h3 align="center">Sou apaixonado por Ciência e Análise de Dados,tenho interesse em áreas como Business Intelligence, Business Analytics, áreas correlatas.</h3>
+<h1 align="center">👋 Olá, seja bem-vindo(a)! Sou Reinilson Silva Jr.</h1>
+<h3 align="center">Apaixonado por Ciência de Dados, com foco em Business Intelligence, Analytics e áreas correlatas.</h3>
 
-- 📚 Pós Graduado em Estatística UFMG, Pós Graduando em Data Science e Analytics USP
+---
 
-- 🌱 Atualmente tenho buscando me desenvolver em **Python e Machine Learning**
+- 🎓 **Pós-Graduado em Estatística** pela UFMG  
+- 🎓 **Cursando Pós-Graduação em Data Science & Analytics** pela USP
 
-- 👯Compartillho dicas de visualização de dados utilizando o [Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTk5NGQyNTgtMzRkYi00MGY1LTk1ZjItZTJkM2IyMWUyZGRhIiwidCI6ImQ1ZWQ3NWYzLTRkZGMtNGUyMC1iNWUzLWEyN2Y5ZjcwMDVjYiJ9)
+- 🚀 Atualmente aprofundando conhecimentos em **Python** e **Machine Learning**, com foco em aplicações práticas para análise de dados e modelagem preditiva.
 
-- 💬 Me pergunte sobre **SQL, Power BI, Python, Excel e Estatística**
+- 📊 Compartilho conteúdos sobre **visualização de dados e storytelling com Power BI** — confira um exemplo [aqui](https://app.powerbi.com/view?r=eyJrIjoiZTk5NGQyNTgtMzRkYi00MGY1LTk1ZjItZTJkM2IyMWUyZGRhIiwidCI6ImQ1ZWQ3NWYzLTRkZGMtNGUyMC1iNWUzLWEyN2Y5ZjcwMDVjYiJ9)
 
-- 📫 Você me encontra em **https://www.linkedin.com/in/reinilsonjunior/**
+- 💬 Fique à vontade para conversar comigo sobre: **SQL • Power BI • Python • Excel • Estatística**
 
-- 📄 analista de dados com mais de 10 anos de experiência na área de produtos, inteligência de mercado e pricing, onde aplico meus conhecimentos em estatística, Python, Power BI, SQL, e outras ferramentas para desenvolver soluções de precificação, inteligência de dados e analytics https://www.linkedin.com/in/reinilsonjunior
+- 📫 Vamos nos conectar? Estou no [LinkedIn](https://www.linkedin.com/in/reinilsonjunior/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reinilson-rodrigues-silva-jr/" height="30" width="40" /></a>
+- 🧠 Profissional com **+10 anos de experiência** nas áreas de produtos, inteligência de mercado e pricing.  
+  Minha atuação é voltada ao uso de **estatística, Python, Power BI e SQL** para criar soluções de **analytics, precificação e inteligência de dados** voltadas à tomada de decisão estratégica.
+
+---
+
+<h3>🌐 Vamos nos conectar:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/reinilsonjunior/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reinilsonjunior&show_icons=true&locale=en&layout=compact" alt="reinilsonjunior" /></p>
+<h3>🧰 Tecnologias e Ferramentas</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinilsonjunior&show_icons=true&locale=en" alt="reinilsonjunior" /></p>
+---
+
+<h3>📌 Interesses Atuais</h3>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics-orange?style=for-the-badge" />
+</p>
+
+---
+
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=reinilsonjunior&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinilsonjunior&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinilsonjunior&theme=default" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinilsonjunior&area=false&line=007ACC&color=000000&bg_color=ffffff&hide_border=true" alt="Contribuições em linha" />
+</p>
+
+
+
 
 
 
