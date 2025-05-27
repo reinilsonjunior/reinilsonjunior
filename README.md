@@ -71,6 +71,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinilsonjunior&area=false&line=007ACC&color=000000&bg_color=ffffff&hide_border=true" alt="Contribuições em linha" />
 </p>
 
+---
+
+<h3 align="center">👁️ Contador de visitas</h3>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=reinilsonjunior.visits" alt="visitantes" />
+</p>
+
 
 
 
