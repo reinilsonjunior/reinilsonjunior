@@ -4,7 +4,7 @@
 ---
 
 - 🎓 **Pós-Graduado em Estatística** pela UFMG  
-- 🎓 **Cursando Pós-Graduação em Data Science & Analytics** pela USP
+- 🎓 **Cursando Pós-Graduação em Data Science & Analytics** pela UFOP
 
 - 🚀 Atualmente aprofundando conhecimentos em **Python** e **Machine Learning**, com foco em aplicações práticas para análise de dados e modelagem preditiva.
 
